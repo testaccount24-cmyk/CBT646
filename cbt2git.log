@@ -1,0 +1,10 @@
+2025-04-04 13:14:25.771359 - Received CBT.V508.FILE646.PDS from FILE646.XMI 
+2025-04-04 13:14:25.772206 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE646.PDS, moved to PDS/$$$#DATE
+2025-04-04 13:14:25.772361 - Found $$INTRO.txt (text/plain) in CBT.V508.FILE646.PDS, moved to PDS/$$INTRO
+2025-04-04 13:14:25.772496 - Found $$NOTE1.eml (message/rfc822) in CBT.V508.FILE646.PDS, moved to PDS/$$NOTE1
+2025-04-04 13:14:25.772679 - Found $$NOTE2.eml (message/rfc822) in CBT.V508.FILE646.PDS, moved to PDS/$$NOTE2
+2025-04-04 13:14:25.772805 - Found @FILE646.txt (text/plain) in CBT.V508.FILE646.PDS, moved to PDS/@FILE646
+2025-04-04 13:14:25.772952 - Found CLS2REXX.rexx (text/plain) in CBT.V508.FILE646.PDS, moved to PDS/CLS2REXX
+2025-04-04 13:14:25.773078 - Found DOCFIL.txt (text/plain) in CBT.V508.FILE646.PDS, moved to PDS/DOCFIL
+2025-04-04 13:14:25.773191 - Found DOCFILX.rexx (text/plain) in CBT.V508.FILE646.PDS, moved to PDS/DOCFILX
+2025-04-04 13:14:25.773313 - Found TSOPROC.rexx (text/plain) in CBT.V508.FILE646.PDS, moved to PDS/TSOPROC
